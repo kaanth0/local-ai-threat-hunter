@@ -1,9 +1,6 @@
 # 🛡️ Local AI Threat Hunter & SOAR Agent (v1.0)
 
-![Python](https://shields.io)
-![Ollama](https://shields.io)
-![VirusTotal](https://shields.io)
-![Status](https://shields.io)
+`Python 3.10+` • `Local LLM (Ollama)` • `VirusTotal API v3` • `Blue Team / SOAR` • `Status: Active`
 
 **Veri gizliliğini (Data Privacy) koruyarak tamamen yerel (offline) çalışan, 7/24 sunucu loglarını izleyen ve gerçek zamanlı tehdit istihbaratı ile otonom müdahale kararları üreten yapay zekâ destekli Blue Team / SOAR ajanı.**
 
